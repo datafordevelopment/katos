@@ -1,0 +1,2 @@
+# katos
+A simple os
